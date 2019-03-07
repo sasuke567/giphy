@@ -4,8 +4,9 @@
 /* global $ */
 
 $("#search-button").click(function(){
-  
-  
+ {
+     game:"Fortnite"
+ }
   
 });
 
